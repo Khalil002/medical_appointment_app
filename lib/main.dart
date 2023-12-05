@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:medical_appointment_app/utils/config.dart';
 import 'package:medical_appointment_app/views/initial_view.dart';
 import 'package:medical_appointment_app/views/home_view.dart';
 import 'package:medical_appointment_app/views/login_view.dart';

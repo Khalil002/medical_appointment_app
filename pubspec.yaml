@@ -14,6 +14,8 @@ dependencies:
   firebase_storage: ^11.5.3
   flutter:
     sdk: flutter
+  flutter_datetime_picker_plus: ^2.1.0
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:
