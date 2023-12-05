@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337143532306",
+    "project_id": "medical-appointment-app-fb",
+    "storage_bucket": "medical-appointment-app-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337143532306:android:bf1eebefd0128116fb41cb",
+        "android_client_info": {
+          "package_name": "com.example.medical_appointment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2jqb90q0P3mHfa-7rcgAx2M3sHMnZP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
