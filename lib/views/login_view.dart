@@ -120,7 +120,7 @@ class _LoginViewState extends State<LoginView> {
   }
 
   loginHandler({required String email, required String password}) async {
-    final credential = await FirebaseAuth.instance.signInWithEmailAndPassword(
+    await FirebaseAuth.instance.signInWithEmailAndPassword(
       email: email,
       password: password,
     );
